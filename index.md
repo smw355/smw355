@@ -4,7 +4,7 @@ layout: default
 
 # The Cookbook
 
-Welcome to The Cookbook! Here you'll find a collection of delicious recipes.
+Welcome to The Cookbook! Here you'll find a collection of recipes that I enjoy.
 
 ## Recipes
 
